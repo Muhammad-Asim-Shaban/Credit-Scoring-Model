@@ -41,3 +41,5 @@ The dataset used is the **Statlog (German Credit Data)** from the [UCI Machine L
 ├── scaler.pkl                # Saved StandardScaler object
 ├── model_columns.pkl         # Saved column order for prediction
 ├── README.md                 # Project documentation (this file)
+
+
